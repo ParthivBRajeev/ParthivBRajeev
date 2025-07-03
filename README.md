@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Parthiv and i am  Data Analyst interested in all things SQL and Data Analysis!
+My name is Parthiv and I am a Data Analyst interested in all things SQL and Data Analysis!
 
 - 🔭 I’m currently working at AI VARIANT, Helping Businesses Make Smarter Decisions. 
 - 🌱 I’m currently learning Prompt Engineering.
-- 👯 I’m looking to collaborate on Building Dashboards and make awesome Sql and Python codes.
+- 👯 I’m looking to collaborate on Building Dashboards and making awesome Sql and Python codes.
 - 📫 How to reach me: my e-mail is parthivbrajeev02@gmail.com
 <!--
 **ParthivBRajeev/ParthivBRajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
